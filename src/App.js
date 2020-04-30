@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <img src="imgs/big_show.png" alt="the big show!" />
+      <h2>i think kirkby looks nothing like the big show</h2>
     </div>
   );
 }
